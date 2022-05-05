@@ -1,0 +1,25 @@
+{
+  "name": "camelize-string",
+  "version": "1.0.0",
+  "description": "Convert Any String into Camel Case",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aykutkircan/camelize-string.git"
+  },
+  "keywords": [
+    "normalize",
+    "phone",
+    "number"
+  ],
+  "author": "https://github.com/aykutkircan",
+  "license": "ISC",
+  "homepage": "https://github.com/aykutkircan/camelize-string#readme"
+}
